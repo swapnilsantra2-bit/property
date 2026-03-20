@@ -9,8 +9,7 @@ Here’s a clean, professional **README.md**  GitHub repo 👇
 
 
 
-**UI forntend screenshort:**
-<img width="1920" height="1020" alt="Screenshot 2026-03-20 144604" src="https://github.com/user-attachments/assets/0d7921e1-7bff-439e-ad03-ff5401532367" />
+
 
 ---
 
@@ -46,6 +45,10 @@ This project enables secure, transparent, and permissionless property registrati
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/869744e9-9595-4dee-bbcc-0fd419408a46" />
 
   
+**UI forntend screenshort:**
+<img width="1920" height="1020" alt="Screenshot 2026-03-20 144604" src="https://github.com/user-attachments/assets/0d7921e1-7bff-439e-ad03-ff5401532367" />
+
+
 
 * **Network:** Testnet
 
